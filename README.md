@@ -37,5 +37,5 @@ Engellenen sitelere erişim denemelerinde erişim sağlanamamıştır
 Firewall logları üzerinden trafik başarıyla izlenmiştir
 Güvenli internet çıkışı doğrulanmıştır
 <img width="1717" height="868" alt="6" src="https://github.com/user-attachments/assets/f3a3bd7d-10a9-4111-b49c-76cc6e07e1b8" />
-<img width="636" height="270" alt="FortiProje" src="https://github.com/user-attachments/assets/5fa3f751-a017-41e9-a8ef-beb2ebe3d4a7" />
 
+<img width="951" height="257" alt="7" src="https://github.com/user-attachments/assets/4f93f8e5-5436-4f72-82e0-6486ae7d2644" />
