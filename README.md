@@ -21,6 +21,8 @@ Tüm LAN trafiği FortiGate üzerinden internete yönlendirilmiştir.
     <img width="866" height="710" alt="3" src="https://github.com/user-attachments/assets/855f0afb-bf1a-4c44-bbf9-a6226dcb2428" />
 -NAT ayarları
 -Web filtre profile tanımlama
+<img width="1102" height="556" alt="image" src="https://github.com/user-attachments/assets/d250ea96-43d4-414f-8080-4c7aaa3ed7e8" />
+<img width="1102" height="556" alt="8" src="https://github.com/user-attachments/assets/566481c7-4015-4be4-a1a4-a73ff5868f5b" />
 -URL ve kategori bazlı web siteleri engelleme
 
 🔐 Güvenlik Senaryosu
