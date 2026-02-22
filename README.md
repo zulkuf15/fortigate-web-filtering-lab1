@@ -22,7 +22,7 @@ Tüm LAN trafiği FortiGate üzerinden internete yönlendirilmiştir.
 -NAT ayarları
 -Web filtre profile tanımlama
 <img width="1102" height="556" alt="image" src="https://github.com/user-attachments/assets/d250ea96-43d4-414f-8080-4c7aaa3ed7e8" />
-<img width="1102" height="556" alt="8" src="https://github.com/user-attachments/assets/566481c7-4015-4be4-a1a4-a73ff5868f5b" />
+<img width="951" height="257" alt="7" src="https://github.com/user-attachments/assets/2e0275a7-0d57-4306-9265-162af3e5decd" />
 -URL ve kategori bazlı web siteleri engelleme
 
 🔐 Güvenlik Senaryosu
@@ -37,5 +37,5 @@ Engellenen sitelere erişim denemelerinde erişim sağlanamamıştır
 Firewall logları üzerinden trafik başarıyla izlenmiştir
 Güvenli internet çıkışı doğrulanmıştır
 <img width="1717" height="868" alt="6" src="https://github.com/user-attachments/assets/f3a3bd7d-10a9-4111-b49c-76cc6e07e1b8" />
-<img width="951" height="257" alt="7" src="https://github.com/user-attachments/assets/2e0275a7-0d57-4306-9265-162af3e5decd" />
+<img width="636" height="270" alt="FortiProje" src="https://github.com/user-attachments/assets/bb4d297f-187b-4f2e-95b8-7bb66ee65dae" />
 
